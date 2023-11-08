@@ -1,0 +1,50 @@
+INFO:root: Starting the program
+WARNING:root:this is a first warning..
+ERROR:root: Error Message..
+ERROR:root: Error Message..
+INFO:root: Starting the program
+WARNING:root:this is a first warning..
+ERROR:root: Error Message..
+INFO:root: Starting the program
+WARNING:root:this is a first warning..
+ERROR:root: Error Message..
+INFO:root: Starting the program
+INFO:root: Starting the program
+WARNING:root:this is a first warning..
+INFO:root: Starting the program
+WARNING:root:this is a first warning..
+ERROR:root: Error Message..
+INFO:root: Starting the program
+WARNING:root:this is a first warning..
+ERROR:root: Error Message..
+2023-09-15 20:04:40,518  Starting the program
+2023-09-15 20:04:41,158 this is a first warning..
+2023-09-15 20:04:42,262  Error Message..
+2023-09-15 20:18:22,767 Error....
+2023-09-15 20:18:22,768 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Tanjina\AppData\Local\Temp\ipykernel_15500\1689125421.py", line 3, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2023-09-15 20:24:09,956 Error....
+2023-09-15 20:24:09,956 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Tanjina\AppData\Local\Temp\ipykernel_15500\2222940487.py", line 4, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2023-09-15 20:24:55,885 40
+2023-09-15 20:24:55,886 Error....
+2023-09-15 20:24:55,887 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Tanjina\AppData\Local\Temp\ipykernel_15500\1155996261.py", line 4, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2023-09-15 20:26:18,312 4 , 0
+2023-09-15 20:26:18,313 Error....
+2023-09-15 20:26:18,313 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Tanjina\AppData\Local\Temp\ipykernel_15500\1113296134.py", line 4, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2023-09-15 22:46:02,855 (2, 5, 6),
+2023-09-15 22:46:32,929 (2, 5, 6.6),
